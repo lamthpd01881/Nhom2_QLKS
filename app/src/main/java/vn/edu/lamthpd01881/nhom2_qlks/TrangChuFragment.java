@@ -24,6 +24,7 @@ public class TrangChuFragment extends Fragment {
         addControls();
         addEvents();
 
+
         return view;
 
     }
