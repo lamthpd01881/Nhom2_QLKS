@@ -25,6 +25,7 @@ public class TrangChuFragment extends Fragment {
         addEvents();
 
         return view;
+
     }
 
     private void addEvents() {
