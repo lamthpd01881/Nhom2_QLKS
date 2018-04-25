@@ -32,6 +32,7 @@ public class TrangChuFragment extends Fragment {
     }
 
     private void addControls() {
+
         webView = view.findViewById(R.id.webView);
         webView.setWebViewClient(new WebViewClient());
         WebSettings webSettings = webView.getSettings();
